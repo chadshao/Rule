@@ -32,4 +32,5 @@
 - DOMAIN-SUFFIX,wps.cn,DIRECT
 - DOMAIN-SUFFIX,kdocs.cn,DIRECT
 
+# 拒绝访问
 - DOMAIN-SUFFIX,sentry.io,REJECT
