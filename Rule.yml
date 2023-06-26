@@ -32,6 +32,7 @@
 - DOMAIN-SUFFIX,wps.cn,DIRECT
 - DOMAIN-SUFFIX,kdocs.cn,DIRECT
 - DOMAIN-SUFFIX,apple.com,DIRECT
+- DOMAIN-SUFFIX,apple.com.cn,DIRECT
 
 # 拒绝访问
 - DOMAIN-SUFFIX,sentry.io,REJECT
