@@ -35,6 +35,7 @@
 - DOMAIN-SUFFIX,apple.com,DIRECT
 - DOMAIN-SUFFIX,apple.com.cn,DIRECT
 - DOMAIN-SUFFIX,chatglm.cn,DIRECT
+- DOMAIN-SUFFIX,anthropic.com,ChatGPT
 
 # 拒绝访问
 - DOMAIN-SUFFIX,sentry.io,REJECT
