@@ -1,6 +1,9 @@
-# Domestic
+# Direct
 - DOMAIN-SUFFIX,welab-inc.com,DIRECT
 - DOMAIN-SUFFIX,4paradigm.com,DIRECT
+
+# Proxy
+- DOMAIN-SUFFIX,yaodao.com,Proxy
 
 # ChatGPT
 - DOMAIN-SUFFIX,anthropic.com,OpenAI
