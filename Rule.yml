@@ -1,14 +1,13 @@
-# Direct
+# DIRECT
 - DOMAIN-SUFFIX,welab-inc.com,DIRECT
 - DOMAIN-SUFFIX,4paradigm.com,DIRECT
 
 # Proxy
-- DOMAIN-SUFFIX,youdao.com,Proxy
 
-# ChatGPT
+# OpenAI
 - DOMAIN-SUFFIX,anthropic.com,OpenAI
 - DOMAIN-SUFFIX,claude.ai,OpenAI
 - DOMAIN-SUFFIX,bard.google.com,OpenAI
 
-# 拒绝访问
+# REJECT
 - DOMAIN-SUFFIX,sentry.io,REJECT
