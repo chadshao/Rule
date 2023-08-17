@@ -3,6 +3,7 @@
 - DOMAIN-SUFFIX,4paradigm.com,DIRECT
 
 # Proxy
+- DOMAIN-SUFFIX,xueqiu.com,Proxy
 
 # OpenAI
 - DOMAIN-SUFFIX,anthropic.com,OpenAI
