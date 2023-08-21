@@ -5,6 +5,7 @@
 # Proxy
 - DOMAIN-SUFFIX,xueqiu.com,Proxy
 - DOMAIN-SUFFIX,doubao.com,Proxy
+- DOMAIN-SUFFIX,zijieapi.com,Proxy
 
 # OpenAI
 - DOMAIN-SUFFIX,anthropic.com,OpenAI
