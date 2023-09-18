@@ -2,3 +2,15 @@
 - DOMAIN-SUFFIX,welab-inc.com,DIRECT
 - DOMAIN-SUFFIX,4paradigm.com,DIRECT
 
+# Proxy
+- DOMAIN-SUFFIX,xueqiu.com,Proxy
+- DOMAIN-SUFFIX,doubao.com,Proxy
+- DOMAIN-SUFFIX,zijieapi.com,Proxy
+
+# OpenAI
+- DOMAIN-SUFFIX,anthropic.com,OpenAI
+- DOMAIN-SUFFIX,claude.ai,OpenAI
+- DOMAIN-SUFFIX,bard.google.com,OpenAI
+
+# REJECT
+- DOMAIN-SUFFIX,sentry.io,REJECT
